@@ -1,0 +1,23 @@
+/* Jhennifer Stefany da Cruz Mirarchi, Mariana Montilha de Almeida & Valéria da Silva Sartorio */
+
+h1 {
+    text-align: center;
+}
+
+#h3aviso{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#geral {
+    padding: 10px;
+    width: 900px;
+    height: 100%;
+    margin: 0px auto;
+}
+
+#ul {
+    position: fixed;
+}
