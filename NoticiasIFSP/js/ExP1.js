@@ -1,5 +1,3 @@
-//Jhennifer Stefany da Cruz Mirarchi, Mariana Montilha de Almeida & Valéria da Silva Sartorio
-
 //para não misturar html com js
 document.querySelector(".opcaoCadastrar").setAttribute("href", "javascript:formCadastro()")
 document.querySelector(".opcaoEsportes").setAttribute("href", "javascript:esportes()")
